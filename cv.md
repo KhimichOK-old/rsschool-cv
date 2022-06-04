@@ -1,4 +1,5 @@
 # Sergey Khimich
+![My photo](Photo.jpg)
 ## Contacts
 * **E-mail:** khimichok@gmail.com
 * **GitHub:** [KhimichOK](https://github.com/KhimichOK)
