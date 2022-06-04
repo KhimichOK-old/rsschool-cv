@@ -14,3 +14,7 @@ function multiply(a, b){
 return a * b
 }
 ```
+## Languages
+* Russian - native speaker
+* Ukrainian - native speaker
+* English - A1
